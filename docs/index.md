@@ -22,6 +22,8 @@ This documentation is organized into the following sections:
 
 - **[Architecture overview](./architecture.md):** Understand the high-level
   design of Gemini CLI, including its components and how they interact.
+- **[Implementation details](./implementation.md):** A developer-oriented code
+  tour of where the logic lives and how it runs.
 - **[Contribution guide](../CONTRIBUTING.md):** Information for contributors and
   developers, including setup, building, testing, and coding conventions.
 

@@ -11,6 +11,10 @@
         "slug": "docs/architecture"
       },
       {
+        "label": "Implementation details",
+        "slug": "docs/implementation"
+      },
+      {
         "label": "Contribution guide",
         "slug": "docs/contributing"
       }
